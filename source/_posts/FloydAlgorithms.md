@@ -1,7 +1,7 @@
 ---
 title: 'Leetcode 287与Floyd判圈算法'
 date: 2022-01-09 17:46:21
-tags: Leetcode, Algorithms
+tags: [Leetcode, Algorithms]
 math: true
 ---
 

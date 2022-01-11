@@ -1,7 +1,7 @@
 ---
 title: '[Leetcode总结]生成一个String所有partitioning'
 date: 2022-01-09 16:52:32
-tags: Leetcode, Algorithms
+tags: [Leetcode, Algorithms]
 ---
 
 # 前言
