@@ -8,4 +8,4 @@ layout: about
 
 正在读的书：[我们仨](https://book.douban.com/subject/1023045/)
 
-正在玩的游戏：[Persona 5 Royal](https://atlus.com/p5r/)
+正在玩的游戏：[Persona 5 Strikers](https://www.atlus.com/p5s/)
